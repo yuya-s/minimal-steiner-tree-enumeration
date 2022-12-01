@@ -15,7 +15,7 @@ google [densehash](https://github.com/sparsehash/sparsehash)
 ## dataset
 Edge file includes a set of edges, terminals, and the optimal cost.
 
-The top line is the number of vertices, the number of edges, the number of terminals, and the optimal cost.
+The top line has four values: the number of vertices, the number of edges, the number of terminals, and the optimal cost.
 Then, it lists edges with vertex id1, vertex id 2, and its edge weight.
 Finally, it lists the vertex ids as terminals.
 
